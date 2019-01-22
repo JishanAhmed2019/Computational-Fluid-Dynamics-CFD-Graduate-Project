@@ -1,0 +1,26 @@
+This codes solves the 1d Euler equation using
+the discontinuous galerkin runge-kutta method
+
+===================================
+Follow the commands to run the code
+
+main
+./dgrk
+
+===================================
+
+To plot the graphics do:
+
+./run
+
+
+Attention: if run in not an executable file you must do:
+
+chmod +x run
+
+===================================
+
+The file data.i is the input file.
+pord - means the degree of approximation
+
+==================================

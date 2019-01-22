@@ -1,0 +1,6 @@
+gnuplot density.gp
+gv density.eps&
+gnuplot velocity.gp
+gv velocity.eps&
+gnuplot pressure.gp
+gv pressure.eps&
